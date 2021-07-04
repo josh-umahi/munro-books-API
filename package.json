@@ -1,0 +1,23 @@
+{
+  "name": "munro-books-api",
+  "version": "1.0.0",
+  "description": "A mock API created for Munro Books App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-umahi/munro-books-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh-umahi/munro-books-API/issues"
+  },
+  "homepage": "https://github.com/josh-umahi/munro-books-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
